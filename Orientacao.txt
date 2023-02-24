@@ -1,0 +1,3 @@
+.Link para download Java JDK 19.0.2 (64-bit): https://www.filehorse.com/download-java-development-kit-64/download/
+
+.Obter o jre atualizado!
